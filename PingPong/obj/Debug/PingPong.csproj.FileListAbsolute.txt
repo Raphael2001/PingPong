@@ -1,0 +1,26 @@
+c:\users\rapha\documents\visual studio 2017\Projects\PingPong\PingPong\obj\Debug\PingPong.csprojResolveAssemblyReference.cache
+c:\users\rapha\documents\visual studio 2017\Projects\PingPong\PingPong\obj\Debug\PingPong.Form1.resources
+c:\users\rapha\documents\visual studio 2017\Projects\PingPong\PingPong\obj\Debug\PingPong.Properties.Resources.resources
+c:\users\rapha\documents\visual studio 2017\Projects\PingPong\PingPong\obj\Debug\PingPong.csproj.GenerateResource.Cache
+C:\Users\rapha\Documents\Visual Studio 2017\Projects\PingPong\PingPong\obj\Debug\PingPong.HighScoresTable.resources
+C:\Users\rapha\documents\visual studio 2017\Projects\PingPong\PingPong\obj\Debug\PingPong.BallStore.resources
+C:\Users\rapha\Documents\Visual Studio 2017\Projects\PingPong\PingPong\bin\Debug\PingPong.exe.config
+C:\Users\rapha\Documents\Visual Studio 2017\Projects\PingPong\PingPong\bin\Debug\PingPong.exe.manifest
+C:\Users\rapha\Documents\Visual Studio 2017\Projects\PingPong\PingPong\bin\Debug\PingPong.application
+C:\Users\rapha\Documents\Visual Studio 2017\Projects\PingPong\PingPong\bin\Debug\PingPong.exe
+C:\Users\rapha\Documents\Visual Studio 2017\Projects\PingPong\PingPong\bin\Debug\PingPong.pdb
+C:\Users\rapha\Documents\Visual Studio 2017\Projects\PingPong\PingPong\obj\Debug\PingPong.exe.manifest
+C:\Users\rapha\Documents\Visual Studio 2017\Projects\PingPong\PingPong\obj\Debug\PingPong.application
+C:\Users\rapha\Documents\Visual Studio 2017\Projects\PingPong\PingPong\obj\Debug\PingPong.exe
+C:\Users\rapha\Documents\Visual Studio 2017\Projects\PingPong\PingPong\obj\Debug\PingPong.pdb
+C:\Users\rapha\Documents\Visual Studio 2017\Projects\PingPong\PingPong\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\rapha\Documents\Visual Studio 2017\Projects\PingPong\PingPong\bin\Debug\System.Runtime.WindowsRuntime.xml
+F:\לימודים\תכנות מערכות\PingPong\PingPong\PingPong\obj\Debug\PingPong.csprojAssemblyReference.cache
+F:\לימודים\תכנות מערכות\PingPong\PingPong\PingPong\obj\Debug\PingPong.BallStore.resources
+F:\לימודים\תכנות מערכות\PingPong\PingPong\PingPong\obj\Debug\PingPong.Form1.resources
+F:\לימודים\תכנות מערכות\PingPong\PingPong\PingPong\obj\Debug\PingPong.HighScoresTable.resources
+F:\לימודים\תכנות מערכות\PingPong\PingPong\PingPong\obj\Debug\PingPong.Properties.Resources.resources
+F:\לימודים\תכנות מערכות\PingPong\PingPong\PingPong\obj\Debug\PingPong.csproj.GenerateResource.cache
+F:\לימודים\תכנות מערכות\PingPong\PingPong\PingPong\obj\Debug\PingPong.csproj.CoreCompileInputs.cache
+F:\לימודים\תכנות מערכות\PingPong\PingPong\PingPong\obj\Debug\PingPong.exe
+F:\לימודים\תכנות מערכות\PingPong\PingPong\PingPong\obj\Debug\PingPong.pdb
